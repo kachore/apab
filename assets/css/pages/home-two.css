@@ -6,9 +6,7 @@
   overflow: hidden;
 }
 @media screen and (max-width: 1199.98px) {
-  .agricko-hero {
-    padding-top: 100px;
-  }
+
 }
 .agricko-hero .hero-shape-image {
   position: absolute;
