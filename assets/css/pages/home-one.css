@@ -1,4 +1,30 @@
 /* Agricko Hero Section */
+
+
+@media (max-width: 767px) {
+    .klo {
+        text-align: center;
+        margin: 0 auto;
+    }
+
+       .klo1 {
+        text-align: center;
+        margin: 0 auto;
+    }
+        .klo2 {
+        margin-left: 30px;
+    }
+     
+   
+    .footer-widget-area .social-box {
+        justify-content: center !important;
+    }
+}
+
+
+
+
+
 .agricko-hero .single-slider {
   padding: 200px 0 320px;
   position: relative;
